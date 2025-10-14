@@ -1,6 +1,6 @@
 # ✨ GitLit — The Diwali Code Fest Season 1
 
-### Organized by **Microsoft Student Club (MLSC PRPCEM)**
+### Organized by **Microsoft Student Club (MSC-PRPCEM)**
 
 Celebrate the Festival of Lights with code, creativity, and open source! 💡💻  
 This Diwali, let’s brighten GitHub with festive commits instead of just diyas. 🪔  
